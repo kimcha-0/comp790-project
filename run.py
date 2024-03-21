@@ -1,0 +1,1 @@
+# run any of the models in their dirs from here using the cli 
